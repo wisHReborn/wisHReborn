@@ -67,8 +67,8 @@ Creative, event-driven experiences made to feel personal, joyful, and different 
 ## 📊 GitHub overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisHReborn&show_icons=true&hide_border=true&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=64748B&ring_color=EF4444" height="165" alt="Wis GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisHReborn&layout=compact&hide_border=true&theme=transparent&title_color=EF4444&text_color=64748B" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wisHReborn&show_icons=true&hide_border=true&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=64748B&ring_color=EF4444" height="165" alt="Wis GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wisHReborn&layout=compact&hide_border=true&theme=transparent&title_color=EF4444&text_color=64748B" height="165" alt="Top languages" />
 </p>
 
 ## 🌱 Currently growing
