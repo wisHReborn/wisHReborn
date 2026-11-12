@@ -61,21 +61,22 @@ I'm a full-stack developer and Suranaree University of Technology student who en
 <details>
 <summary><b>🌌 More projects from the lab</b></summary>
 
-- [protein-palace-quest](https://github.com/wisHReborn/protein-palace-quest) — a fun TypeScript project with a memorable theme
-- [ProjectHTML100](https://github.com/wisHReborn/ProjectHTML100) — a collection of HTML practice and experiments
-- [cheerful-wish-wave](https://github.com/wisHReborn/cheerful-wish-wave) — a cheerful interactive web experiment
-- [gamer-birthday-quest](https://github.com/wisHReborn/gamer-birthday-quest) — a playful themed project
+- [protein-palace-quest](https://github.com/wisHReborn/protein-palace-quest)
+- [ProjectHTML100](https://github.com/wisHReborn/ProjectHTML100)
+- [cheerful-wish-wave](https://github.com/wisHReborn/cheerful-wish-wave)
+- [gamer-birthday-quest](https://github.com/wisHReborn/gamer-birthday-quest)
 
 </details>
 
-## 📊 GitHub at a glance
+## 📈 GitHub activity
+
+The live contribution graph and repository activity are always available on my [GitHub profile](https://github.com/wisHReborn).
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wisHReborn&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=06B6D4&text_color=64748B&ring_color=7C3AED" height="170" alt="Wis GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisHReborn&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B" height="170" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=wisHReborn&hide_border=true&theme=transparent&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED" alt="GitHub streak" />
+[![GitHub followers](https://img.shields.io/github/followers/wisHReborn?style=for-the-badge&logo=github&label=Followers&color=7C3AED)](https://github.com/wisHReborn?tab=followers)
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-24-06B6D4?style=for-the-badge&logo=github)](https://github.com/wisHReborn?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=wisHReborn&style=for-the-badge&color=7C3AED)](https://github.com/wisHReborn)
 
 </div>
 
@@ -100,7 +101,7 @@ I'm a full-stack developer and Suranaree University of Technology student who en
 <details>
 <summary><b>💬 Want to connect?</b></summary>
 
-The best way to reach me is through [Instagram](https://www.instagram.com/reb0rn_606/) or [GitHub](https://github.com/wisHReborn). I'm always interested in interesting ideas, creative collaborations, and conversations about building for the web.
+The best way to reach me is through [Instagram](https://www.instagram.com/reb0rn_606/) or [GitHub](https://github.com/wisHReborn/). I'm always interested in interesting ideas, creative collaborations, and conversations about building for the web.
 
 </details>
 
