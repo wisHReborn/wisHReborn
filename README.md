@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:450A0A,45:991B1B,100:EF4444&height=240&section=header&text=Wis%20HReborn&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-stack%20developer%20%C2%B7%20Creative%20technologist&descSize=18&descAlignY=62" width="100%" alt="Wis HReborn header" />
+<img src="./assets/hero.svg" width="100%" alt="Wis HReborn — Full-stack developer, creative technologist" />
 
 <a href="https://github.com/wisHReborn">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Full-stack+developer;SUT+student;Creative+technologist;Building+ideas+that+feel+alive" alt="Typing animation" />
@@ -9,12 +9,12 @@
 <p>
   <a href="https://github.com/wisHReborn"><img src="https://img.shields.io/badge/GitHub-wisHReborn-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/reb0rn_606/"><img src="https://img.shields.io/badge/Instagram-reb0rn__606-B91C1C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://img.shields.io/badge/Suranaree_University-SUT-EF4444?style=for-the-badge&logo=academia&logoColor=white" alt="SUT" />
+  <img src="https://img.shields.io/badge/Suranaree_University_of_Technology-SUT-EF4444?style=for-the-badge" alt="SUT" />
 </p>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 👋 Hello, I'm Wis
 
@@ -37,7 +37,14 @@ I turn ideas into polished, useful, and memorable digital experiences. My work b
 
 ## 🛠️ Toolkit
 
-<p align="left">
+<div align="center">
+  <img src="./assets/orbit.svg" width="720" alt="Animated orbit of my tech stack" />
+</div>
+
+<details>
+<summary>Static badges</summary>
+
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -47,6 +54,10 @@ I turn ideas into polished, useful, and memorable digital experiences. My work b
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
 </p>
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ✨ Selected work
 
@@ -66,12 +77,14 @@ I turn ideas into polished, useful, and memorable digital experiences. My work b
 ## 📊 GitHub overview
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wisHReborn&show_icons=true&hide_border=true&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=64748B&ring_color=EF4444&cache_seconds=86400" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisHReborn&layout=compact&hide_border=true&theme=transparent&title_color=EF4444&text_color=64748B&cache_seconds=86400" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=wisHReborn&hide_border=true&background=00000000&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&currStreakNum=64748B&sideNums=64748B&sideLabels=64748B&dates=64748B" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=wisHReborn&hide_border=true&background=00000000&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&currStreakNum=64748B&sideNums=64748B&sideLabels=64748B&dates=64748B" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wisHReborn/wisHReborn/output/github-snake-dark.svg" />
+    <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/wisHReborn/wisHReborn/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ## 🌱 Currently growing
@@ -90,6 +103,4 @@ If you enjoy building things, exploring new ideas, or making the web a little mo
   <a href="https://www.instagram.com/reb0rn_606/">Instagram</a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:B91C1C,100:450A0A&height=120&section=footer" width="100%" alt="Footer" />
-</div>
+<img src="./assets/footer.svg" width="100%" alt="" />
