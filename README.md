@@ -61,18 +61,31 @@ I turn ideas into polished, useful, and memorable digital experiences. My work b
 
 ## ✨ Selected work
 
-| Project | About |
-| :--- | :--- |
-| 🛍️ [**web_Rebornshop**](https://github.com/wisHReborn/web_Rebornshop) | A web shopping experience that presents products clearly with a smooth, approachable browsing flow. |
-| 🎮 [**gamer-spark-link**](https://github.com/wisHReborn/gamer-spark-link) | A TypeScript project exploring an energetic, gamer-focused experience with personality and a strong visual concept. |
-| 🥗 [**protein-palace-quest**](https://github.com/wisHReborn/protein-palace-quest) | A playful web experience that turns a focused idea into something engaging and memorable. |
-| 🧪 [**ProjectHTML100**](https://github.com/wisHReborn/ProjectHTML100) | A collection of hands-on HTML practice built through repetition, details, and shipping. |
-| 🎉 [**cheerful-wish-wave**](https://github.com/wisHReborn/cheerful-wish-wave) | Creative, event-driven experience made to feel personal and joyful. |
-| 🎂 [**gamer-birthday-quest**](https://github.com/wisHReborn/gamer-birthday-quest) | A birthday quest that feels different from an ordinary web page. |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/wisHReborn/web_Rebornshop"><img src="./assets/card-1.svg" width="100%" alt="web_Rebornshop" /></a></td>
+    <td width="50%"><a href="https://github.com/wisHReborn/gamer-spark-link"><img src="./assets/card-2.svg" width="100%" alt="gamer-spark-link" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/wisHReborn/protein-palace-quest"><img src="./assets/card-3.svg" width="100%" alt="protein-palace-quest" /></a></td>
+    <td width="50%"><a href="https://github.com/wisHReborn/ProjectHTML100"><img src="./assets/card-4.svg" width="100%" alt="ProjectHTML100" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/wisHReborn/cheerful-wish-wave"><img src="./assets/card-5.svg" width="100%" alt="cheerful-wish-wave" /></a></td>
+    <td width="50%"><a href="https://github.com/wisHReborn/gamer-birthday-quest"><img src="./assets/card-6.svg" width="100%" alt="gamer-birthday-quest" /></a></td>
+  </tr>
+</table>
 
 <p align="center">
+  <a href="https://web-reborn.vercel.app"><img src="https://img.shields.io/badge/Live_demo-web--reborn.vercel.app-166534?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo of web_Rebornshop" /></a>
   <a href="https://github.com/wisHReborn?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_projects-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
 </p>
+
+<img src="./assets/langs.svg" width="100%" alt="Language mix across pinned repositories" />
+
+## 🏆 Achievements
+
+<img src="./assets/achievements.svg" width="100%" alt="GitHub achievements: Pull Shark x2, YOLO, Quickdraw" />
 
 ## 📊 GitHub overview
 
