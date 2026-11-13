@@ -16,7 +16,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👋 Hello, I'm Wis
+## 👋 Hello, I'm Rebor
 
 I turn ideas into polished, useful, and memorable digital experiences. My work blends frontend craft, full-stack problem solving, playful interaction, and clean visual direction.
 
