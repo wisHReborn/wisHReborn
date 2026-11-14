@@ -16,7 +16,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👋 Hello, I'm Reborn
+## 👋 Hello, I'm Wis
 
 I turn ideas into polished, useful, and memorable digital experiences. My work blends frontend craft, full-stack problem solving, playful interaction, and clean visual direction.
 
@@ -61,20 +61,20 @@ I turn ideas into polished, useful, and memorable digital experiences. My work b
 
 ## ✨ Selected work
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/wisHReborn/web_Rebornshop"><img src="./assets/card-1.svg" width="100%" alt="web_Rebornshop" /></a></td>
-    <td width="50%"><a href="https://github.com/wisHReborn/gamer-spark-link"><img src="./assets/card-2.svg" width="100%" alt="gamer-spark-link" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/wisHReborn/protein-palace-quest"><img src="./assets/card-3.svg" width="100%" alt="protein-palace-quest" /></a></td>
-    <td width="50%"><a href="https://github.com/wisHReborn/ProjectHTML100"><img src="./assets/card-4.svg" width="100%" alt="ProjectHTML100" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/wisHReborn/cheerful-wish-wave"><img src="./assets/card-5.svg" width="100%" alt="cheerful-wish-wave" /></a></td>
-    <td width="50%"><a href="https://github.com/wisHReborn/gamer-birthday-quest"><img src="./assets/card-6.svg" width="100%" alt="gamer-birthday-quest" /></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/wisHReborn/web_Rebornshop"><img src="./assets/card-1.svg" width="49%" alt="web_Rebornshop" /></a>
+  <a href="https://github.com/wisHReborn/gamer-spark-link"><img src="./assets/card-2.svg" width="49%" alt="gamer-spark-link" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wisHReborn/protein-palace-quest"><img src="./assets/card-3.svg" width="49%" alt="protein-palace-quest" /></a>
+  <a href="https://github.com/wisHReborn/ProjectHTML100"><img src="./assets/card-4.svg" width="49%" alt="ProjectHTML100" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wisHReborn/cheerful-wish-wave"><img src="./assets/card-5.svg" width="49%" alt="cheerful-wish-wave" /></a>
+  <a href="https://github.com/wisHReborn/gamer-birthday-quest"><img src="./assets/card-6.svg" width="49%" alt="gamer-birthday-quest" /></a>
+</p>
 
 <p align="center">
   <a href="https://web-reborn.vercel.app"><img src="https://img.shields.io/badge/Live_demo-web--reborn.vercel.app-166534?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo of web_Rebornshop" /></a>
